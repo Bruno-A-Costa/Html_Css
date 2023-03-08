@@ -4,3 +4,34 @@
     text-align: center;
     background-color: rgb(173, 118, 224);
 }
+
+.lista {
+
+    color: #fff;
+}
+
+.example-item {
+    width: 33.333%;
+    height: 150px;
+    display: inline;
+}
+
+.example-item-first {
+
+    background-color: aquamarine;
+}
+
+.example-item-two {
+
+    background-color: chartreuse;
+}
+
+.tree {
+
+    background-color: crimson;
+}
+
+.example-item-last {
+
+    background-color: darkgoldenrod;
+}
